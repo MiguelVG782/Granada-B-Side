@@ -16,14 +16,14 @@ Univesidad de Granada
 
 **Resumen** : Narrativa no lineal interactiva que trata sobre la escena rock e indie nocturna de Granada. Conoce su atmósfera a través de Baldwin, nuestro personaje principal. Puedes conocerlo mediante un chat IA, participar en cada local a través de una historia desarrollada mediante ARCWeave o acceder a una demo anticipada de la misma elaborada a través del software de Godot. 
 
-**logotipo** :  <img width="298" height="65" alt="image" src="https://github.com/user-attachments/assets/87875aef-d51d-4de1-aae0-2d0643eed50f" />
+**logotipo** :   <img width="298" height="65" alt="image" src="https://github.com/user-attachments/assets/87875aef-d51d-4de1-aae0-2d0643eed50f" />
 
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): tomatee la vida como un bajo de guitarra... suave.
 
-**Hashtag**  ___
+**Hashtag**  #Granada #B-Side #PedroAntonio #Conciertos #Rock #Indie #VidaNocturna
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** [Creative Common 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) 
 
 **Fecha** : 2026
 
