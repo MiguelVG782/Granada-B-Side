@@ -30,12 +30,14 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-* :octocat: (github url) 
+* :octocat: [https://github.com/MiguelVG782 ](https://github.com/MiguelVG782)
+* Milanote: [https://app.milanote.com/1W01Yh10eOqd7Y?p=fVCzKgTw2WW]([url](https://app.milanote.com/1W01Yh10eOqd7Y?p=fVCzKgTw2WW)
 * ArcWeave: [https://arcweave.com/app/project/MWEZrVBE2g](https://arcweave.com/app/project/MWEZrVBE2g)
-* GODOT:
+* Character AI: [https://character.ai/chat/xj0-u_kFhLyP_dK2R4EAGJDsT0nyGKsrC5Vzmzv4e24](https://character.ai/chat/xj0-u_kFhLyP_dK2R4EAGJDsT0nyGKsrC5Vzmzv4e24)
+* GODOT: 
+
+
 *  
-
-
 
 --- 
 
