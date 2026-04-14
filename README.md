@@ -1,6 +1,5 @@
-# (Nombre del proyecto)  
+# GRANADA B SIDE
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia) <br>
 [Master de Nuevos medios interactivos y periodismo multimedia](https://masteres.ugr.es/newmedia-periodismo-multimedia/) <br>
