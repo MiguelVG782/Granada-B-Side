@@ -1,4 +1,4 @@
-# GRANADA B SIDE
+# GRANADA B SITE
 
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia) <br>
@@ -10,11 +10,11 @@ Univesidad de Granada
 
 
 ![img](5seconds.png)
-**Titulo** : _______
+**Titulo** : Granada B Site
 
-**Autor(es)** ______________
+**Autor(es)** Juan Castelo Solís, Antonio Hector Espinoza Guanilo y Miguel Velasco García.
 
-**Resumen** : _________
+**Resumen** : Narrativa no lineal interactiva que trata sobre la escena rock e indie nocturna de Granada. Conoce su atmósfera a través de Baldwin, nuestro personaje principal. Puedes conocerlo mediante un chat IA, participar en cada local a través de una historia desarrollada mediante ARCWeave o acceder a una demo anticipada de la misma elaborada a través del software de Godot. 
 
 **logotipo** :  ________
 
