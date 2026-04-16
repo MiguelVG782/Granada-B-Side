@@ -161,7 +161,8 @@ Uno de los problemas surgidos fue al tratar de llevar este recorrido al software
 
 Tal como se mencionó anteriormente, este es un proyecto que presenta un gran valor pues no existe una ruta interactiva así en la actualidad para destacar y promover la escena rock e indie de Granada. A futuro, es posible enriquecer en recorrido interactivo al agregar nuevos lugares y rutas alternativas (a manera de expansión) en ArcWave y, a su vez, terminar de construir todo el recorrido en Godot para que sea un videojuego más atractivo para el usuario. Incluso, pudiendo llevar esta experiencia a un sitio web o desarrollarlo para que pueda ser jugable desde dispositivos móviles como teléfonos smartphones o tablets. Aumentando el alcance del proyecto y cumpliendo con el objetivo de difundir la escena rock de la ciudad.
 
-Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+
 Para continuar el desarrollo del proyecto, y dado su valor diferencial, se pueden buscar alianzas con instituciones públicas y privadas que quieran apostar por la promoción de la cultural musical en Granada. Una posible alianza estratégica puede ser con la marca **Cervezas Alhambra** pues es una marca local, con fuerte presencia en el mercado, y que tiene un proyecto propio que apoya al sector cultural. Con el auspicio de ellos, se podría crear una ruta musical por Granada que tenga como eje el recorrido interactivo diseñado.
 Por otro lado, este proyecto puede interesar especialmente al **Ayuntamiento** de la ciudad, quienes en su búsqueda por conseguir que Granada sea Capital Europea de la Cultura para el año 2031 pueden apoyar un proyecto de difusión cultural como el nuestro. En esa misma línea, la **Junta de Andalucía** podría mostrar interés por un proyecto que busca poner en valor la historia y herencia musical de la ciudad.
 
