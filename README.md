@@ -44,38 +44,75 @@ Univesidad de Granada
 
 ### Metodología
 
-Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+Metodología de desarrollo: El proyecto ‘Granada B-Side’ busca dar a conocer la escena musical rock e indie de Granada al crear una experiencia de usuario a partir de un juego que recrea una ruta de bares, pubs y salas de conciertos de este género musical en la capital nazarí. Creemos que la música en vivo es parte fundamental de la identidad cultural de nuestra ciudad, y que acercar esta experiencia a partir de un recorrido interactivo donde el usuario toma decisiones, visita los principales lugares de rock e indie de la ciudad, e interactúa con personajes y situaciones ayudará a difundir el valor cultural que tiene la música para Granada.
+El recorrido, bosquejado en Milanote y creado en ArcWave, presenta un árbol o esquema de decisiones, con condicionantes, penalizaciones y recompensas, a partir de un recorrido interactivo que apuesta por la experiencia del usuario y sus elecciones para recorrer y explorar la ruta de bares, pubs y salas de conciertos de Granada. La ruta se ajusta a las decisiones del usuario y los puntajes de ‘aura’, ‘dinero’ y ‘embriaguez’ que este vaya acumulando en su recorrido para que cada jugador logre una experiencia más personalizada.
 
 ### Etapa 1: Ideación de proyecto 
 
 
+**Investigación de campo**    
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+En primera instancia, se investigó sobre la escena y tradición musical de la ciudad de Granada, reconociendo el valor cultural e histórico que grupos de rock e indie como Los Planetas, Lori Meyers, Niños Mutantes, Lagartija Nick, y muchos otros han dejado en la ciudad y la movida rockera. 
+Además, se pudo conocer a los principales lugares que los amantes de este género musical suelen visitar en Granada. Para construir una ruta interactiva y jugable, lo primero fue identificar qué lugares son los más visitados y llevarlos al juego. Muchos de estos bares y pubs se encuentran en la parte céntrica de la ciudad, donde se pueden encontrar espacios como el pub Perro Andaluz, el Ruido Rosa, el bar y lugar de conciertos Lemon Rock, o la sala de conciertos Planta Baja. 
+Finalmente, se optó por investigar qué plataformas o proyectos similares existen actualmente. Si bien existen algunas páginas web que funcionan como agendas culturales, estas cubren eventos en general y no están abocadas a la escena rock e indie de la ciudad. Tampoco se encontró una ruta interactiva o juego que busque hacer partícipe al usuario de esta experiencia de visitar bares y vivir la vida nocturna y rockera de Granada, por lo que se puede considerar que nuestra propuesta tiene un valor diferencial.
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
 
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+Con el objetivo de expandir el universo de Granada B-Side, se cuenta con una página web interactiva y funcional en la que previamente se han analizado diversos parámetros fundamentales, como los principales espacios, sitios, escenarios, pubs y terrazas; donde se presentan artistas tanto locales como internacionales. Estos elementos fueron definidos con anterioridad para garantizar el correcto desarrollo de la idea base; por ello, se han identificado las siguientes necesidades y oportunidades:
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Necesidad:**
+Insertarnos de forma interactiva en los nuevos entornos digitales mediante experiencias lúdicas que capten la atención del usuario.
+Brindar al usuario una nueva forma de conocer sitios destacados y culturales en Granada a través de dinámicas participativas.
+Obtener mayor visibilidad para la plataforma principal de Granada B-Side mediante la diversificación de formatos.
+Generar una experiencia inmersiva que trascienda la consulta informativa tradicional y fomente la exploración activa.
+Traducir la información previamente investigada en contenido dinámico y jugable que facilite su consumo.
+Conectar con audiencias jóvenes habituadas a las nuevas plataformas y al consumo interactivo de contenido digital.
+Construir una narrativa que permita al usuario identificarse con la experiencia de descubrimiento de la ciudad.
+Integrar distintos formatos (web, juego, contenido cultural) dentro de un mismo ecosistema transmedia coherente.
+Diferenciar el proyecto frente a plataformas tradicionales de ocio y agenda cultural.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Oportunidad:** 
+Expandir la idea principal de Granada B-Side mediante un nuevo producto multimedia que refuerza su identidad transmedia.
+Aprovechar los elementos ya desarrollados (investigación, localizaciones, contenido) para optimizar recursos en la creación del videojuego.
+Transformar la información recopilada en experiencias interactivas que aumenten el valor percibido del proyecto.
+Posicionar Granada B-Side como una propuesta innovadora dentro del ámbito cultural y digital.
+Generar una conexión más profunda con el usuario a través de la participación activa y la toma de decisiones.
+Potenciar el alcance del proyecto al atraer tanto a público local como a visitantes o extranjeros.
+Incrementar el engagement del usuario al convertir la exploración cultural en una experiencia de jugabilidad. 
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+
+**Motivación de la propuesta** 
+
+La presente propuesta resulta de interés por su capacidad de integrar el ámbito cultural, digital y experiencial en un mismo ecosistema transmedia. En un contexto donde la sobreinformación y las plataformas tradicionales limitan la forma en que los usuarios descubren la oferta cultural, Granada B-Side plantea una alternativa basada en la interacción y la participación activa.
+El desarrollo de un videojuego como extensión del proyecto permite transformar la exploración de la escena musical de Granada en una experiencia inmersiva, en la que el usuario no solo accede a información, sino que la experimenta a través de dinámicas propias en jugabilidad. Asimismo, la propuesta adquiere relevancia al apoyarse en una investigación previa sólida, lo que garantiza una representación coherente y verosímil del contexto cultural de la ciudad. De este modo, no se trata únicamente de un producto creativo, sino de una herramienta que pone en valor el tejido musical local y facilita su difusión desde una perspectiva innovadora.
+
+
+**Personas/Usuarios** 
+
+El público objetivo de Granada B-Side se compone principalmente de jóvenes adultos con interés en la música, la cultura urbana y las experiencias digitales interactivas. 
+En particular, el proyecto resulta especialmente útil para los siguientes perfiles:
+
+**Estudiantes y jóvenes residentes en Granada**, interesados en descubrir nuevos espacios culturales y musicales más allá de los circuitos convencionales.
+
+**Extranjeros y estudiantes internacionales**, que buscan integrarse en la vida social de la ciudad y acceder a su oferta cultural de forma accesible y atractiva.
+
+**Turistas culturales**, motivados por experiencias auténticas y alternativas que les permitan explorar la escena local desde una perspectiva diferente.
+
+
+**Estilo de narración** 
+
+El proyecto Granada B-Side adopta un estilo de narración transmedia basado en la combinación de distintos medios digitales, donde cada plataforma aporta una forma específica de contar y experimentar el contenido.
+Por un lado, la página web funciona como un espacio informativo e interactivo que organiza y presenta la escena musical de Granada de manera estructurada, permitiendo al usuario explorar localizaciones, eventos y espacios culturales. Este medio emplea una narrativa más descriptiva y orientativa, centrada en facilitar el acceso a la información.
+Por otro lado, el videojuego introduce una narrativa experiencial e inmersiva, en la que el usuario asume el rol de un personaje extranjero que descubre progresivamente la ciudad. A través de mecánicas como la exploración del mapa, la gestión de recursos (dinero, experiencia, aura) y la interacción con distintos espacios, la narrativa se construye mediante la acción del jugador, convirtiendo la experiencia en un proceso dinámico y personalizado.
 
 
 ![gato](fedecat.png)
 
 **Inspiración/moodboard**
 
-> (captura de imagen) hecha con miro/milanote o https://excalidraw.com/ 
+> ![img](https://drive.google.com/file/d/1K4Mmt6p7flZYrPhPTej-gUSqVHuOm-0I/view?usp=sharing) 
 
 
 
