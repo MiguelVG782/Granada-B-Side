@@ -112,29 +112,35 @@ Por otro lado, el videojuego introduce una narrativa experiencial e inmersiva, e
 
 **Inspiración/moodboard**
 
-> ![img](https://drive.google.com/file/d/1K4Mmt6p7flZYrPhPTej-gUSqVHuOm-0I/view?usp=sharing) 
+> <img width="1750" height="1102" alt="Captura de pantalla 2026-04-16 115955" src="https://github.com/user-attachments/assets/4832a832-8657-40a7-9edf-708801e44920" />
+
 
 
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Se utilizó la herramienta de trabajo colaborativo Milanote para reunir información y pasar de la fase de ideación al prototipado del proyecto. 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+> <img width="1750" height="1102" alt="Captura de pantalla 2026-04-16 115955" src="https://github.com/user-attachments/assets/973f86f4-4d62-4950-b814-4871364fb41d" />
 
-* redes sociales (...) 
+Dentro de la plataforma, se dio forma a la idea del proyecto, el objetivo de este y las referencias para el mapa o ruta que seguirá el jugador. Además, se trabajó reuniendo información sobre el listado de lugares a visitar, los posibles retos o tareas que debía cumplir el jugador para acercarse a su objetivo, el perfil de los personajes, las variables que intervienen en el recorrido, y un borrador de la estructura narrativa del proyecto con sus principales nodos y caminos.
 
-* publicidad: banner (... ) 
+> <img width="2236" height="941" alt="Captura de pantalla 2026-04-16 120438" src="https://github.com/user-attachments/assets/30b34d24-f475-482d-8f96-389c7ce5910f" />
 
-* ...
+
+Otras herramientas que intervinieron en el prototipado y creación de la ruta interactiva fueron Character.Ai para idear el perfil y personalidad del personaje principal (Balwin) quien realizará el recorrido y permitirá al usuario vivir la experiencia de la escena rock e indie de Granada.
+Asimismo, se utilizó Canva y Genially para elaborar un mapa que aparezca en determinados momentos del juego y muestre la ubicación del personaje, así como las posibles rutas que puede tomar para visitar otros lugares de la ciudad. Brindando así un referente visual más claro que refleje el progreso y ubicación del jugador en el mapa.
+
+Todos estos recursos, finalmente, fueron integrados en ArcWave donde se creó el recorrido por la ruta del rock e indie en Granada. Trasladando a esta plataforma el árbol de decisiones y estructura narrativa antes ideada. Además, como una etapa de desarrollo posterior, se llevó la ruta por Granada al software Godot para creación de videojuegos. En este programa, se realizó un boceto de lo que más adelante podría convertirse en un videojuego con un mayor nivel de interactividad y participación por parte del usuario al recorrer las calles de Granada y visitar los bares, pubs y salas de conciertos recreados con este software.
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Para evaluar la jugabilidad y experiencia ofrecida por el proyecto, se recurrirá a aplicar un test de usabilidad para con los usuarios. De esta manera, se podrá evaluar cómo el usuario interactúa y recorre las rutas diseñadas en ArcWave, y ayudará a reconocer posibles fallas, repeticiones o dificultades en la interface y narrativa.
 
-* Test con usuarios (...) 
-* ... 
+En este test, el usuario jugará y realizará el recorrido varias veces, reconociendo cuál fue su experiencia la primera vez y luego de ya conocer mejor el recorrido. Luego, se le preguntará qué piensa del diseño del juego, el grado de dificultad, su experiencia en relación a conocer la escena rock de Granada a través del juego, la claridad de los textos e información brindada durante el recorrido, y recomendaciones de mejora.
 
+Este test podrá ser aplicado de forma virtual a través de un cuestionario de Google Forms, o de manera presencial por medio de una entrevista con el usuario participante de esta evaluación.
 
 
 
@@ -142,23 +148,22 @@ Por otro lado, el videojuego introduce una narrativa experiencial e inmersiva, e
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
+* Grado de consecución del proyecto
+
+ Considerando la idea inicial del proyecto (crear una experiencia interactiva para explorar la escena musical rock e indie en Granada), el nivel de desarrollo alcanzado permite establecer que se consiguió alcanzar las metas del proyecto hasta un primer nivel de desarrollo. Con la ayuda de ArcWave y las demás herramientas antes señaladas, se consiguió crear un recorrido completo, con múltiples opciones y caminos, y que permite reconocer las principales características de la noche y escena rock granadina como es visitar distintos bares, pubs y salas de conciertos, interactuar con otros personajes, realizar acciones como tomar una cerveza, jugar al futbolín, escuchar música rock, asistir a un concierto, etc.
+Es por ello que se concluye que el proyecto cumple con ofrecer un recorrido real (no solo en boceto), jugable y que transmite la experiencia de vivir una noche de rock en Granada a partir de poder conocer hasta 7 lugares diferentes e integrando situaciones reales como conocer gente nueva, interactuar con el personal de seguridad al ingreso de los lugares, y afrontar dificultades como quedarse sin dinero o emborracharse demasiado. 
+
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
+
+Uno de los problemas surgidos fue al tratar de llevar este recorrido al software Godot e implementarlo completo, pues esto requiere de un mayor conocimiento en programación y más tiempo invertido en la construcción de cada escena y la animación de los elementos. Si bien se alcanzó a crear un prototipo sencillo con un recorrido base, para hacer real toda la ruta por Granada hace falta mayor tiempo de dedicación y dominar lenguaje de programación. 
+
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
+Tal como se mencionó anteriormente, este es un proyecto que presenta un gran valor pues no existe una ruta interactiva así en la actualidad para destacar y promover la escena rock e indie de Granada. A futuro, es posible enriquecer en recorrido interactivo al agregar nuevos lugares y rutas alternativas (a manera de expansión) en ArcWave y, a su vez, terminar de construir todo el recorrido en Godot para que sea un videojuego más atractivo para el usuario. Incluso, pudiendo llevar esta experiencia a un sitio web o desarrollarlo para que pueda ser jugable desde dispositivos móviles como teléfonos smartphones o tablets. Aumentando el alcance del proyecto y cumpliendo con el objetivo de difundir la escena rock de la ciudad.
 
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
-
+Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+Para continuar el desarrollo del proyecto, y dado su valor diferencial, se pueden buscar alianzas con instituciones públicas y privadas que quieran apostar por la promoción de la cultural musical en Granada. Una posible alianza estratégica puede ser con la marca **Cervezas Alhambra** pues es una marca local, con fuerte presencia en el mercado, y que tiene un proyecto propio que apoya al sector cultural. Con el auspicio de ellos, se podría crear una ruta musical por Granada que tenga como eje el recorrido interactivo diseñado.
+Por otro lado, este proyecto puede interesar especialmente al **Ayuntamiento** de la ciudad, quienes en su búsqueda por conseguir que Granada sea Capital Europea de la Cultura para el año 2031 pueden apoyar un proyecto de difusión cultural como el nuestro. En esa misma línea, la **Junta de Andalucía** podría mostrar interés por un proyecto que busca poner en valor la historia y herencia musical de la ciudad.
 
 
 ----
@@ -168,7 +173,7 @@ Referencias y recursos:
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* (...) 
+*  Productos utilizados: Milanote, ArcWave, Character.ai, Genially, Canva, Godot.
 
 
 
